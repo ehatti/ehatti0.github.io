@@ -6,7 +6,7 @@ $$
 }
 $$
 
-I'm a CS undergrad at Yale, primarily interested in programming languages and proof assistants. You can find me on [Github](https://github.com/ehatti) and [LinkedIn](https://www.linkedin.com/in/eashan-hatti-777387288).
+I'm a CS undergrad at Yale, primarily interested in programming languages and knowledge management. You can find me on [Github](https://github.com/ehatti) and [LinkedIn](https://www.linkedin.com/in/eashan-hatti-777387288).
 
 {% for post in site.posts %}
   <hr>
