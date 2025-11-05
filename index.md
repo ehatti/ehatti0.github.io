@@ -1,6 +1,6 @@
 <img src="assets/selfie.jpeg" style="display: block; width: 40%; margin-left: auto; margin-right: auto;"/>
 
-I'm a CS undergrad at Yale, primarily interested in programming languages and knowledge management. You can find me on [Github](https://github.com/ehatti) and [LinkedIn](https://www.linkedin.com/in/eashan-hatti-777387288).
+I'm a CS undergrad at Yale, primarily interested in programming languages and knowledge management. You can find me on [Github](https://github.com/ehatti) and [LinkedIn](https://www.linkedin.com/in/eashan-hatti-777387288). My email is `<first>.<last>@<school>.edu`
 
 {% for post in site.posts %}
   <hr>
